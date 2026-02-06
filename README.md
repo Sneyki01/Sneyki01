@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Status-OpenToWork-Green)
 
 
-I have 3 years of experience as QA manual Tester and I'm preparing myself to jump to the next level! as software developer! 💪
+I have 4 years of experience as QA manual Tester and I'm preparing myself to jump to the next level! as software developer! 💪
 
 - 🌱 I’m currently learning **JavaScript, Java, HTML, CSS**
 
